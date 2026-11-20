@@ -41,7 +41,7 @@ Clicks pass straight through the overlay, so it never gets in your way.
 1. Install Apple's developer tools (one time): `xcode-select --install`
 2. Run:
    ```
-   git clone https://github.com/YOUR-USERNAME/monsoon_vibes.git
+   git clone https://github.com/tanaykakade/monsoon_vibes.git
    cd monsoon_vibes
    zsh make_app.sh
    ```
